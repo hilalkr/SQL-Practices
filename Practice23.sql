@@ -8,3 +8,5 @@ SELECT
 	COUNT(*) AS [Sales Count]
 FROM
     Invoice
+
+	
